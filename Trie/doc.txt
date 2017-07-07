@@ -1,0 +1,20 @@
+WORDS.RECORD.URL: www.damir.com
+damir
+eran
+shay
+dima
+WORDS.RECORD.URL: www.eran.com
+damir
+eran
+shay
+dima
+WORDS.RECORD.URL: www.shay.com
+damir
+eran
+shay
+dima
+WORDS.RECORD.URL: www.dima.com
+damir
+eran
+shay
+dima
